@@ -38,14 +38,13 @@
     filter: blur(0px);
 }
 
-.poster-list > li:nth-child(1).ani1 { transition-delay: 0.1s; }
-.poster-list > li:nth-child(2).ani1 { transition-delay: 0.25s; }
-.poster-list > li:nth-child(3).ani1 { transition-delay: 0.4s; }
-.poster-list > li:nth-child(4).ani1 { transition-delay: 0.55s; }
-.poster-list > li:nth-child(5).ani1 { transition-delay: 0.7s; }
-
-.poster-list > li:nth-child(1).ani3 { transition-delay: 0s; }
-.poster-list > li:nth-child(2).ani3 { transition-delay: 0s; }
-.poster-list > li:nth-child(3).ani3 { transition-delay: 0s; }
-.poster-list > li:nth-child(4).ani3 { transition-delay: 0s; }
-.poster-list > li:nth-child(5).ani3 { transition-delay: 0s; }
+.poster-list > li:nth-child(1).ani3 { transition-delay: 0.1s; }
+.poster-list > li:nth-child(2).ani3 { transition-delay: 0.25s; }
+.poster-list > li:nth-child(3).ani3 { transition-delay: 0.4s; }
+.poster-list > li:nth-child(4).ani3 { transition-delay: 0.55s; }
+.poster-list > li:nth-child(5).ani3 { transition-delay: 0.7s; }
+.poster-list > li:nth-child(1).ani3 { transition-delay: 0.1s; }
+.poster-list > li:nth-child(2).ani3 { transition-delay: 0.25s; }
+.poster-list > li:nth-child(3).ani3 { transition-delay: 0.4s; }
+.poster-list > li:nth-child(4).ani3 { transition-delay: 0.55s; }
+.poster-list > li:nth-child(5).ani3 { transition-delay: 0.7s; }

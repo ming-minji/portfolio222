@@ -424,7 +424,7 @@ p{
 .poster-txt h3{
     font-weight: 700;
     margin-bottom: 1.5rem;
-    color: #fff;
+    color: var(--point-color);
 }
 
 .poster-txt p{
