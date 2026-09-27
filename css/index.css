@@ -1166,16 +1166,16 @@ p{
         color: #000;
     }
     .poster-title h2 {
-        font-size: 2rem;
+        font-size: 3rem;
     }
     .poster-title h2+p {
-        font-size: 1.3rem;
+        font-size: 1.5rem;
     }
     .popup h2 {
-        font-size: 2rem;
+        font-size: 3rem;
     }
     .popup h2+p{
-        font-size: 1.3rem;
+        font-size: 1.5rem;
     }
 
     .detail-title{
@@ -1184,12 +1184,12 @@ p{
     }
 
     .detail h2{
-        font-size:2rem;
+        font-size:3rem;
         font-weight: 700;
         margin-bottom: 1rem;
     }
     .detail h2+p{
-        font-size:1.3rem;
+        font-size:1.5rem;
         margin-bottom: 3rem;
     }
 
@@ -1201,14 +1201,14 @@ p{
         font-size: calc(100vw / 8);
     }
     .contact h3{
-        font-size: 1.3rem;
+        font-size: 1.5rem;
     }
     
     .project h2{
-        font-size:2rem;
+        font-size:3rem;
     }
     .project h2+p{
-        font-size:1.3rem;
+        font-size:1.5rem;
     }
     .all-menu{
         left: 1rem;
@@ -1217,12 +1217,12 @@ p{
         right: 1rem;
     }
     .banner h2 {
-        font-size: 2rem;
+        font-size: 3rem;
         font-weight: 700;
         margin-bottom: 1rem;
     }
     .banner h2+p {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     margin-bottom: 3rem;
 }
 }
